@@ -7,7 +7,7 @@
     <artifactId>bus-client</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <description>GraphQL client with some customized spec: https://github.com/infoplus/canvas-docs/wiki/Provider</description>
+    <description>Standard GraphQL client with some optional customized specs: https://github.com/infoplus/canvas-docs/wiki/Provider</description>
 
     <properties>
         <maven.test.skip>false</maven.test.skip>
