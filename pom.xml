@@ -4,10 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.ketanyun</groupId>
-    <artifactId>bus-client</artifactId>
+    <artifactId>graphql-client</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>GraphQL Client</name>
     <description>Standard GraphQL client with some optional customized specs: https://github.com/infoplus/canvas-docs/wiki/Provider</description>
+    <url>https://github.com/infoplus/graphql-client</url>
 
     <properties>
         <maven.test.skip>false</maven.test.skip>
